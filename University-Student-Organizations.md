@@ -56,6 +56,7 @@ active.
     at NYU and surrounding schools. We welcome students of all 
     experience levels.
       * [@TechatNYU](https://twitter.com/TechatNYU)
+  * [NYU Women in Computing] (http://cs.nyu.edu/~wincweb/)
 
 
 ### Rhode Island
